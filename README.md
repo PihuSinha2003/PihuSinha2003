@@ -8,7 +8,8 @@
     👋 Hey there, I'm Pihu Sinha
   </h1>
 
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNidmVkZTBsMW1vb2ZtdnFwbjU4aHQzbDlpNHRmY3V1ZXpjdTBrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100%" alt="Banner"/>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1scW10YTB5c3pzd2hhMDJmaGZxYXo0dGd3dW04dXExcWJqMHRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Waving Banner"/>
+
 
 
   <p>
