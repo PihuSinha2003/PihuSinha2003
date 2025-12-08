@@ -126,14 +126,6 @@
 
 ---
 
-### <p align="center">🏆 GitHub Trophies</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PihuSinha2003&theme=dracula&column=7&no-frame=true&no-bg=true" alt="PihuSinha2003 Trophies" />
-</p>
-
----
-
 <div align="center">
   <h3><i>“Write clean code. Think clearly. Improve constantly.”</i> 💻</h3>
   
