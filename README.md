@@ -137,20 +137,21 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
+<!-- ADD THIS IMAGE AT THE TOP FOR PERFECT ALIGNMENT -->
+<img src="https://github.com/user-attachments/assets/e3a92941-e0ce-4e45-830e-fe66e73b23d7"
+     width="80%"
+     style="margin-top: 15px; display:block;"
+     alt="FinDash Preview"/>
+
 <p>
 <em>Smart analytics dashboard with expense tracking, budgeting, JWT authentication, category insights & visual charts.</em>
 </p>
-
-<!-- Normalized image height so both columns align -->
-<img src="https://github.com/user-attachments/assets/e3a92941-e0ce-4e45-830e-fe66e73b23d7"
-     width="80%"
-     style="margin-top: 8px; display:block;"
-     alt="FinDash Preview"/>
 
 <p style="margin-top: 10px;">
 <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank"><strong>[View Repository]</strong></a>
 </p>
 </td>
+
 
 </tr>
 
