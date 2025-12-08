@@ -8,7 +8,8 @@
     👋 Hey there, I'm Pihu Sinha
   </h1>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Building%20Reliable%20Software&desc=B.Tech%20CSE%20%7C%20Developer%20%26%20Problem%20Solver&descAlignY=60&height=200&fontSize=45&fontAlignY=35" alt="Waving Banner"/>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNidmVkZTBsMW1vb2ZtdnFwbjU4aHQzbDlpNHRmY3V1ZXpjdTBrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100%" alt="Banner"/>
+
 
   <p>
     <a href="https://github.com/PihuSinha2003">
