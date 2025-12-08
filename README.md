@@ -108,53 +108,35 @@
         <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
       </td>
       <td align="center" width="50%">
-  <strong>FinDash – Smart Expense, Budget & Analytics Tracker 📊</strong><br/>
+  <strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
+
   <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   </p>
 
   <p>
     <em>
-      FinDash is a modern, intuitive financial management application built to help users track expenses, analyze spending patterns, and manage budgets efficiently. It features JWT authentication, a clean dashboard, detailed expense tracking, category-wise budgeting, and rich analytics visualizations.
+      A smart financial dashboard that helps users track expenses, analyze spending, and manage category-wise budgets with clean charts and insights.
     </em>
   </p>
 
-  <br/>
-
-  <p><strong>📸 Screenshots</strong></p>
-
-  🔐 Authentication page  
-  📊 Dashboard  
-  📈 Analytics charts  
-  💰 Budget manager  
-
-  *(Add the actual images in your repo’s README when ready)*
-
-  <br/>
-
-  <p><strong>✨ Core Features</strong></p>
-
   <ul align="left">
-    <li><b>JWT Authentication</b> – Secure login/signup, protected routes, logout, user identity in UI.</li>
-    <li><b>Dashboard Overview</b> – Total expenses, category summary, recent transactions, monthly trends.</li>
-    <li><b>Expense Management</b> – Add, edit, delete expenses; filter, search, sort; export to CSV.</li>
-    <li><b>Analytics</b> – Monthly & yearly insights, daily averages, category distribution pie charts, trend graphs.</li>
-    <li><b>Budget Tracking</b> – Set per-category budgets, view remaining vs spent, visual progress bars, month switching.</li>
+    <li>📌 JWT Auth + Protected Routes</li>
+    <li>📊 Dashboard & Analytics (Charts)</li>
+    <li>💰 Category Budgets & Tracking</li>
+    <li>🧾 Add / Edit / Delete Expenses</li>
   </ul>
 
   <br/>
-
   <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank">
-    <strong>[View FinDash Repository]</strong>
+    <strong>[View Repository]</strong>
   </a>
 </td>
+
 
     </tr>
   </table>
