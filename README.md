@@ -83,7 +83,6 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 <p>
 <em>A structured health tracking system using MVC architecture to improve scalability, modularity, and maintainability.</em>
 </p>
-<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/e3a92941-e0ce-4e45-830e-fe66e73b23d7" />
 
 
 <br/>
@@ -132,6 +131,8 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 <p>
 <em>Smart analytics dashboard with expense tracking, budgeting, JWT authentication, category insights & visual charts.</em>
 </p>
+
+<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/e3a92941-e0ce-4e45-830e-fe66e73b23d7" />
 
 <br/>
 <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank"><strong>[View Repository]</strong></a>
