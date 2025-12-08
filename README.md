@@ -57,6 +57,7 @@
 <div align="center">
   <table>
     <tr>
+      <!-- ChatSphere -->
       <td align="center" width="50%">
         <strong>ChatSphere – Real-Time MERN Chat App 💬</strong><br/>
         <p>
@@ -75,6 +76,8 @@
         <br/>
         <a href="https://github.com/PihuSinha2003/ChatSphere" target="_blank"><strong>[View Repository]</strong></a>
       </td>
+
+      <!-- PerioCare -->
       <td align="center" width="50%">
         <strong>PerioCare – Health Tracking Web App 🩺</strong><br/>
         <p>
@@ -92,78 +95,65 @@
         <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
       </td>
     </tr>
+
     <tr>
+      <!-- TripMind -->
       <td align="center" width="50%">
-  <strong>TripMind – AI Travel Planner ✈️🌍</strong><br/>
+        <strong>TripMind – AI Travel Planner ✈️🌍</strong><br/>
 
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gemini_AI-7F00FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gemini_AI-7F00FF?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+        </p>
 
-  <p>
-    <em>
-      An AI-powered travel planner that generates personalized itineraries, hotel recommendations, and day-wise travel plans using Gemini AI, Firebase Auth, and Google APIs.
-    </em>
-  </p>
+        <p>
+          <em>
+            An AI-powered travel planner that generates personalized itineraries, hotel recommendations, and day-wise travel plans using Gemini AI, Firebase Auth, and Google APIs.
+          </em>
+        </p>
 
-  <img src="https://github.com/user-attachments/assets/a4b548e8-2f05-4657-a8e1-e9f0e8f7865a" width="90%" alt="TripMind UI Preview"/>
+        <img src="https://github.com/user-attachments/assets/a4b548e8-2f05-4657-a8e1-e9f0e8f7865a" width="90%" alt="TripMind UI Preview"/>
 
-  <br/><br/>
+        <br/><br/>
 
-  <p><strong>✨ Features</strong></p>
-  <ul align="left">
-    <li>🔐 Google/Firebase Authentication</li>
-    <li>🧳 AI itinerary generation (Gemini AI)</li>
-    <li>🏨 Smart hotel recommendations</li>
-    <li>📍 Day-wise plan with timings & costs</li>
-    <li>📸 Real images via Google Places API</li>
-  </ul>
+        <a href="https://github.com/PihuSinha2003/TripMind" target="_blank">
+          <strong>[View Repository]</strong>
+        </a>
+      </td>
 
-  <br/>
+      <!-- FinDash -->
+      <td align="center" width="50%">
+        <strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
 
-  <img src="https://github.com/user-attachments/assets/5c2f0e6e-6582-45f3-a5a5-90ebcd000f56" width="90%" alt="TripMind Itinerary Page"/>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+        </p>
 
-  <br/><br/>
+        <p>
+          <em>
+            A smart financial dashboard that helps users track expenses, analyze spending, and manage category-wise budgets with clean charts and insights.
+          </em>
+        </p>
 
-  <a href="https://github.com/PihuSinha2003/TripMind" target="_blank">
-    <strong>[View Repository]</strong>
-  </a>
-</td>
+        <ul align="left">
+          <li>📌 JWT Auth + Protected Routes</li>
+          <li>📊 Dashboard & Analytics (Charts)</li>
+          <li>💰 Category Budgets & Tracking</li>
+          <li>🧾 Add / Edit / Delete Expenses</li>
+        </ul>
 
-  <strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  </p>
-
-  <p>
-    <em>
-      A smart financial dashboard that helps users track expenses, analyze spending, and manage category-wise budgets with clean charts and insights.
-    </em>
-  </p>
-
-  <ul align="left">
-    <li>📌 JWT Auth + Protected Routes</li>
-    <li>📊 Dashboard & Analytics (Charts)</li>
-    <li>💰 Category Budgets & Tracking</li>
-    <li>🧾 Add / Edit / Delete Expenses</li>
-  </ul>
-
-  <br/>
-  <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank">
-    <strong>[View Repository]</strong>
-  </a>
-</td>
-
-
+        <br/>
+        <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank">
+          <strong>[View Repository]</strong>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
