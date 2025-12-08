@@ -69,7 +69,7 @@
           </em>
         </p>
         <br/>
-        <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
+        <a href="https://github.com/PihuSinha2003/ChatSphere" target="_blank"><strong>[View Repository]</strong></a>
       </td>
       <td align="center" width="50%">
         <strong>PerioCare – Health Tracking Web App 🩺</strong><br/>
