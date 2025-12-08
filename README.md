@@ -108,20 +108,54 @@
         <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
       </td>
       <td align="center" width="50%">
-        <strong>Hackathons & Campus Projects 🚀</strong><br/>
-        <p>
-          <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-FF8C00?style=for-the-badge" alt="SIH"/>
-          <img src="https://img.shields.io/badge/Prototyping-006400?style=for-the-badge" alt="Prototyping"/>
-          <img src="https://img.shields.io/badge/Team%20Collaboration-1E90FF?style=for-the-badge" alt="Collaboration"/>
-        </p>
-        <p>
-          <em>
-            Contributed to solution design and rapid prototyping in the Smart India Hackathon and actively participated in Bennett tech clubs and events, refining teamwork and engineering practices.
-          </em>
-        </p>
-        <br/>
-        <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[Explore Contributions]</strong></a>
-      </td>
+  <strong>FinDash – Smart Expense, Budget & Analytics Tracker 📊</strong><br/>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  </p>
+
+  <p>
+    <em>
+      FinDash is a modern, intuitive financial management application built to help users track expenses, analyze spending patterns, and manage budgets efficiently. It features JWT authentication, a clean dashboard, detailed expense tracking, category-wise budgeting, and rich analytics visualizations.
+    </em>
+  </p>
+
+  <br/>
+
+  <p><strong>📸 Screenshots</strong></p>
+
+  🔐 Authentication page  
+  📊 Dashboard  
+  📈 Analytics charts  
+  💰 Budget manager  
+
+  *(Add the actual images in your repo’s README when ready)*
+
+  <br/>
+
+  <p><strong>✨ Core Features</strong></p>
+
+  <ul align="left">
+    <li><b>JWT Authentication</b> – Secure login/signup, protected routes, logout, user identity in UI.</li>
+    <li><b>Dashboard Overview</b> – Total expenses, category summary, recent transactions, monthly trends.</li>
+    <li><b>Expense Management</b> – Add, edit, delete expenses; filter, search, sort; export to CSV.</li>
+    <li><b>Analytics</b> – Monthly & yearly insights, daily averages, category distribution pie charts, trend graphs.</li>
+    <li><b>Budget Tracking</b> – Set per-category budgets, view remaining vs spent, visual progress bars, month switching.</li>
+  </ul>
+
+  <br/>
+
+  <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank">
+    <strong>[View FinDash Repository]</strong>
+  </a>
+</td>
+
     </tr>
   </table>
 </div>
