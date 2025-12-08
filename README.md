@@ -94,20 +94,46 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <strong>Real-Time AQI Monitoring System 🌫️</strong><br/>
-        <p>
-          <img src="https://img.shields.io/badge/IoT/Real--Time-00A8E8?style=for-the-badge" alt="IoT"/>
-          <img src="https://img.shields.io/badge/Data%20Visualization-4B0082?style=for-the-badge" alt="Data Viz"/>
-        </p>
-        <p>
-          <em>
-            Led a 5-member team to build a real-time AQI monitoring solution, focusing on system design, data handling, and visualization to present live air quality insights.
-          </em>
-        </p>
-        <br/>
-        <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
-      </td>
-      <td align="center" width="50%">
+  <strong>TripMind – AI Travel Planner ✈️🌍</strong><br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gemini_AI-7F00FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  </p>
+
+  <p>
+    <em>
+      An AI-powered travel planner that generates personalized itineraries, hotel recommendations, and day-wise travel plans using Gemini AI, Firebase Auth, and Google APIs.
+    </em>
+  </p>
+
+  <img src="https://github.com/user-attachments/assets/a4b548e8-2f05-4657-a8e1-e9f0e8f7865a" width="90%" alt="TripMind UI Preview"/>
+
+  <br/><br/>
+
+  <p><strong>✨ Features</strong></p>
+  <ul align="left">
+    <li>🔐 Google/Firebase Authentication</li>
+    <li>🧳 AI itinerary generation (Gemini AI)</li>
+    <li>🏨 Smart hotel recommendations</li>
+    <li>📍 Day-wise plan with timings & costs</li>
+    <li>📸 Real images via Google Places API</li>
+  </ul>
+
+  <br/>
+
+  <img src="https://github.com/user-attachments/assets/5c2f0e6e-6582-45f3-a5a5-90ebcd000f56" width="90%" alt="TripMind Itinerary Page"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/PihuSinha2003/TripMind" target="_blank">
+    <strong>[View Repository]</strong>
+  </a>
+</td>
+
   <strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
 
   <p>
