@@ -1,15 +1,12 @@
 <div align="center">
 
-  
   <br/>
   
   <h1>
     👋 Hey there, I'm Pihu Sinha
   </h1>
 
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1scW10YTB5c3pzd2hhMDJmaGZxYXo0dGd3dW04dXExcWJqMHRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Waving Banner"/>
-
-
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1scW10YTB5c3pzd2hhMDJmaGZxYXo0dGd3dW04dXExcWJqMHRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Waving Banner"/>
 
   <p>
     <a href="https://github.com/PihuSinha2003">
@@ -30,13 +27,20 @@
 </p>
 
 <ul>
-  <li>💼 Recently completed an <b>8-week Summer Internship at Xebia</b>, focusing on agile engineering, collaboration, and real-world project work.</li>
+  <li>💼 Recently completed an <b>8-week Summer Internship at Xebia</b>, where I was exposed to agile development practices, collaborative engineering workflows, and industry-level coding standards.</li>
   <li>🧠 Strong foundation in <b>Data Structures & Algorithms, Operating Systems, Databases, and Software Engineering.</b></li>
   <li>🔭 I’m currently improving my skills in <b>React.js, TypeScript, and scalable web app architecture</b>.</li>
   <li>👯 I’m looking to collaborate on <b>frontend-heavy apps, MERN projects, and real-time systems</b>.</li>
   <li>💬 Ask me about <b>React, JavaScript, DSA, or how I approach debugging and problem-solving</b>.</li>
   <li>📫 How to reach me: <b>pihusinha2003@gmail.com</b></li>
 </ul>
+
+---
+
+### 💼 Experience
+
+- <b>Summer Intern – Xebia (8 weeks)</b>  
+  Gained hands-on exposure to software engineering best practices, agile ceremonies, Git-based collaboration, and writing clean, modular code while working on learning-oriented internal assignments and problem-solving exercises.
 
 ---
 
