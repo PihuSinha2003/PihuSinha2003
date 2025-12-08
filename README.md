@@ -42,71 +42,105 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 </p>
 
 ---
+---
 
 ### <p align="center">✨ Projects I've Built</p>
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="50%">
-                <strong>ChatSphere – Real-Time MERN Chat App 💬</strong><br/>
-                <p>
-                    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-                    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-                    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-                    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-                    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-                </p>
-                <p> 
-                    <em> Real-time chat application with JWT authentication, MongoDB-backed message storage, and Socket.io-based live messaging designed to handle hundreds of messages smoothly. </em>
-                </p>
-                <br/>
-                <a href="https://github.com/PihuSinha2003/ChatSphere" target="_blank"><strong>[View Repository]</strong></a>
-            </td>
-            <td align="center" width="50%">
-                <strong>PerioCare – Health Tracking Web App 🩺</strong><br/>
-                <p>
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
-                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-                    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-                    <img src="https://img.shields.io/badge/MVC%20Pattern-555555?style=for-the-badge" alt="MVC Pattern"/>
-                </p>
-                <p> 
-                    <em> A structured health tracking web app using the MVC pattern, reducing code duplication and improving scalability while supporting cycle-tracking logic tested across multiple user profiles. </em>
-                </p>
-                <br/>
-                <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="50%">
-                <strong>Real-Time AQI Monitoring System 🌫️</strong><br/>
-                <p>
-                    <img src="https://img.shields.io/badge/IoT/Real--Time-00A8E8?style=for-the-badge" alt="IoT"/>
-                    <img src="https://img.shields.io/badge/Data%20Visualization-4B0082?style=for-the-badge" alt="Data Viz"/>
-                </p>
-                <p> 
-                    <em> Led a 5-member team to build a real-time AQI monitoring solution, focusing on system design, data handling, and visualization to present live air quality insights. </em>
-                </p>
-                <br/>
-                <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
-            </td>
-            <td align="center" width="50%">
-                <strong>Hackathons & Campus Projects 🚀</strong><br/>
-                <p>
-                    <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-FF8C00?style=for-the-badge" alt="SIH"/>
-                    <img src="https://img.shields.io/badge/Prototyping-006400?style=for-the-badge" alt="Prototyping"/>
-                    <img src="https://img.shields.io/badge/Team%20Collaboration-1E90FF?style=for-the-badge" alt="Collaboration"/>
-                </p>
-                <p> 
-                    <em> Contributed to solution design and rapid prototyping in the Smart India Hackathon and actively participated in Bennett tech clubs and events, refining teamwork and engineering practices. </em>
-                </p>
-                <br/>
-                <a href="https://github.com/PihuSinha2003" target="_blank"><strong>[Explore Contributions]</strong></a>
-            </td>
-        </tr>
-    </table>
+<table>
+
+<tr>
+<td align="center" width="50%">
+<strong>ChatSphere – Real-Time MERN Chat App 💬</strong><br/>
+<p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io Badge"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge"/>
+</p>
+
+<p>
+<em>A real-time chat application with JWT authentication, MongoDB message storage, and fast Socket.io-based live messaging.</em>
+</p>
+
+<br/>
+<a href="https://github.com/PihuSinha2003/ChatSphere" target="_blank"><strong>[View Repository]</strong></a>
+</td>
+
+
+
+<td align="center" width="50%">
+<strong>PerioCare – Health Tracking Web App 🩺</strong><br/>
+<p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
+    <img src="https://img.shields.io/badge/MVC%20Pattern-555555?style=for-the-badge" alt="MVC Pattern Badge"/>
+</p>
+
+<p>
+<em>A structured health tracking system using MVC architecture to improve scalability, modularity, and maintainability.</em>
+</p>
+
+<br/>
+<a href="https://github.com/PihuSinha2003" target="_blank"><strong>[View Repository]</strong></a>
+</td>
+
+</tr>
+
+
+
+
+<tr>
+
+<td align="center" width="50%">
+<strong>TripMind – AI Travel Planner ✈️🌍</strong><br/>
+<p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gemini_AI-7F00FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p>
+<em>AI-powered itinerary generator with hotel suggestions, day-wise trip planning, real images, Google APIs & Firebase Auth.</em>
+</p>
+
+<img src="https://github.com/user-attachments/assets/a4b548e8-2f05-4657-a8e1-e9f0e8f7865a" width="80%" alt="TripMind Preview"/>
+
+<br/><br/>
+<a href="https://github.com/PihuSinha2003/TripMind" target="_blank"><strong>[View Repository]</strong></a>
+</td>
+
+
+
+<td align="center" width="50%">
+<strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
+<p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+<p>
+<em>Smart analytics dashboard with expense tracking, budgeting, JWT authentication, category insights & visual charts.</em>
+</p>
+
+<br/>
+<a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank"><strong>[View Repository]</strong></a>
+</td>
+
+</tr>
+
+</table>
 </div>
+
+
 <br/>
 
 ---
