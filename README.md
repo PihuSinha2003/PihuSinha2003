@@ -116,8 +116,6 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 <a href="https://github.com/PihuSinha2003/TripMind" target="_blank"><strong>[View Repository]</strong></a>
 </td>
 
-
-
 <td align="center" width="50%">
 <strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
 <p>
