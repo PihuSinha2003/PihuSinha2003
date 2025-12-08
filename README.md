@@ -96,8 +96,10 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 
 <tr>
 
+<!-- TripMind -->
 <td align="center" width="50%">
 <strong>TripMind – AI Travel Planner ✈️🌍</strong><br/>
+
 <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -110,14 +112,23 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 <em>AI-powered itinerary generator with hotel suggestions, day-wise trip planning, real images, Google APIs & Firebase Auth.</em>
 </p>
 
-<img src="https://github.com/user-attachments/assets/a4b548e8-2f05-4657-a8e1-e9f0e8f7865a" width="80%" alt="TripMind Preview"/>
+<!-- Standardized image height for alignment -->
+<img src="https://github.com/user-attachments/assets/a4b548e8-2f05-4657-a8e1-e9f0e8f7865a"
+     width="80%"
+     style="margin-top: 8px; display:block;"
+     alt="TripMind Preview"/>
 
-<br/><br/>
+<p style="margin-top: 10px;">
 <a href="https://github.com/PihuSinha2003/TripMind" target="_blank"><strong>[View Repository]</strong></a>
+</p>
 </td>
 
+
+
+<!-- FinDash -->
 <td align="center" width="50%">
 <strong>FinDash – Expense & Budget Tracker 📊</strong><br/>
+
 <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -130,13 +141,19 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 <em>Smart analytics dashboard with expense tracking, budgeting, JWT authentication, category insights & visual charts.</em>
 </p>
 
-<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/e3a92941-e0ce-4e45-830e-fe66e73b23d7" />
+<!-- Normalized image height so both columns align -->
+<img src="https://github.com/user-attachments/assets/e3a92941-e0ce-4e45-830e-fe66e73b23d7"
+     width="80%"
+     style="margin-top: 8px; display:block;"
+     alt="FinDash Preview"/>
 
-<br/>
+<p style="margin-top: 10px;">
 <a href="https://github.com/PihuSinha2003/FinDash---Expense-Tracker" target="_blank"><strong>[View Repository]</strong></a>
+</p>
 </td>
 
 </tr>
+
 
 </table>
 </div>
