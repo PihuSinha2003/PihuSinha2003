@@ -164,7 +164,4 @@ Gained hands-on exposure to software engineering best practices, agile ceremonie
 
 ---
 
-<div align="center">
-    <h3><i>“Write clean code. Think clearly. Improve constantly.”</i> 💻</h3>
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Thanks gif"/>
-</div>
+
